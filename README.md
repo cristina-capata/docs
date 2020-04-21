@@ -4,7 +4,7 @@ description: Inițiativa Ligii AC de a face educația de calitate deschisă tutu
 
 # 📚 Despre Docs
 
-> **Educația de calitate** trebuie să fie ușor de accesat, de oriunde, de oricând, de **oricine**.
+> **Educația de calitate** trebuie să fie ușor de accesat, de oriunde, oricând, de **oricine**.
 
 ![Imagine de @element5digital pe Unsplash](.gitbook/assets/image.png)
 
